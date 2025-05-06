@@ -19,7 +19,7 @@ Un casino tiene **jugadores** y **juegos disponibles**.
     1. [El Mayor de 13](#13)
     2. [Dos Colores](#colores)
 3. [Requerimientos No Funcionales](#reqnofun)
-4. [Parcial](#parcial)
+4. [Ejercicio](#parcial)
     1. [Preguntas teóricas](#teoria)
     2. [Ajustes](#ajus)
 
